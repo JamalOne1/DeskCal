@@ -1,4 +1,4 @@
-# DesktopBackground
+# Desktop Background for Windows 10, 11 .NET 8.0 build in C#
 Have a new desktop background nice pictures from NASA or Picsum.photo and calendar for the day
 
 1. If not get your own free API_KEY from api.nasa.gov
