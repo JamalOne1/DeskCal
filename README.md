@@ -9,5 +9,4 @@ Have a new desktop background nice pictures from NASA or Picsum.photo and calend
   Give it a name
   Next Next to Select the path to the DesktopBackground.exe 
   Set a trigger that makes you happy
-  Finnished
 4. Enjoy
